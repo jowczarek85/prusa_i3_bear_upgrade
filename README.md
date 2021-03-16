@@ -5,12 +5,12 @@
 ## Spis treści
   1. [Wprowadzenie](#wprowadzenie)
   1. [Features](#features)
-  1. [Zmiany względem ramy bear 2.0](#zmiany-w-bear-upgrade-2.1-względem-2.0)
+  1. [Zmiany względem ramy bear 2.0](#zmiany-w-bear-upgrade-2.1-wzgledem-2.0)
   1. [Kompatybilność](#compatibility)
   1. [Części drukowane](#printed-parts)
   1. [Ustawienia dotyczące druku](#print-settings)
-  1. [Montaż](#assembly-guide)
-  1. [Zestawienie materiałów](#bill-of-materials)
+  1. [Montaż](#montaż)
+  1. [Zestawienie materiałów](#zestawienie-materiałów)
   1. [Części opcjonalne](#czesci-opcjonalne)
   1. [Społeczność](#community)
   1. [Gdzie dostać oficjalny zestaw?](#where-can-i-get-an-official-kit)
@@ -18,8 +18,7 @@
   1. [Wsparcie mojej pracy](#support-my-work)
   1. [Podziękowania](#thank-you)
   1. [Licencja](#license)
-  1. [Uznanie, źródła i inspiracja](#credit-sources-and-inspiration)
-
+  1. [Uznanie, źródła i inspiracja](#uznanie-źródła-i-inspiracja)
 
 
 ## Wprowadzenie
