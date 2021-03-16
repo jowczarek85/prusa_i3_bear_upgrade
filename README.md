@@ -86,13 +86,13 @@ Aktualizacja Bear Frame Upgrade 2.1 jest kompatybilna wyłącznie z ramą Full B
 
 :warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
-**Printed parts:**
+**Części drukowane:**
   * Bear Frame 2.1 for MK3(S) STL files: [bear21_mk3-3s_stl.zip](../../releases/latest/download/bear21_mk3-3s_stl.zip)
   * Bear Frame 2.1 for MK2(S) or MK2.5(S) STL files: [bear21_mk2-2s-25-25s_stl.zip](../../releases/latest/download/bear21_mk2-2s-25-25s_stl.zip)
   * Bear Frame 2.1 optional parts (check [optional parts section](#optional-parts) below) files: [bear21_optional_parts.zip](../../releases/latest/download/bear21_optional_parts.zip)
 
-**CAD, drawings and source files**:
-  * Bear 2.1 frame for MK3(S) CAD files and mechanical drawings: [bear21_cad_drawings_files.zip](../../releases/latest/download/bear21_cad_drawings_files.zip)
+**Pliki źródłowe CAD i szkice**:
+  * Rama Bear 2.1 dla MK3(S) CAD files and mechanical drawings: [bear21_cad_drawings_files.zip](../../releases/latest/download/bear21_cad_drawings_files.zip)
   * All source files (this complete repository): Go the to latest release [here](../../releases/latest) and in the bottom of the release note, under the Assets, click on "Source code" (you can choose between zip and tar.gz files).
 
 
@@ -105,13 +105,13 @@ Aktualizacja Bear Frame Upgrade 2.1 jest kompatybilna wyłącznie z ramą Full B
 
 
 
-## Assembly guide
+## Montaż
 
 [Read the assembly guide here](https://guides.bear-lab.com/c/Frame).
 
 
 
-## Bill of materials
+## Zestawienie materiałów
 
 [Read the BOM here](doc/bom.md).
 
@@ -196,59 +196,59 @@ Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando z
 
 ## Wsparcie mojej pracy
 
-The bear project is made possible thanks to its supporters. You can participate via
+Projekt Bear jest możliwy dzięki wspierającym. Możesz to zrobić poprzez:
 <br/><br/>
 [![become a patron](extra/icons/patreon_50px.png)](https://www.patreon.com/gregsaun)<br/>[patreon.com/gregsaun](https://www.patreon.com/gregsaun)
 <br/><br/>
 [![paypal.me](extra/icons/paypal_50px.png)](https://www.paypal.me/gregsaun)<br/>[paypal.me/gregsaun](https://www.paypal.me/gregsaun)
 <br/><br/>
-You can also send me a tip via [Thingiverse](https://www.thingiverse.com/pekcitron/about) if you prefer.
+Możesz również wysłać mi napiwek przez [Thingiverse](https://www.thingiverse.com/pekcitron/about) jeśli wolisz.
 
-Massive thank you in advance :heart:
+Z góry wielkie podziękowania :heart:
 
 
 
 ## Podziękowania
 
-Massive thank you to [Adrian Bowyer](https://github.com/AdrianBowyer/) for having invented [RepRap](http://reprapltd.com).
+Ogromne podziękowania dla [Adrian Bowyer](https://github.com/AdrianBowyer/) za wymyślenie [RepRap](http://reprapltd.com).
 
-Thank you to all [my Patreon's](https://guides.bear-lab.com/Wiki/Bear_Supporters)
+Podziękowania dla wszystkich [oich Patreon'ów](https://guides.bear-lab.com/Wiki/Bear_Supporters)
 
-Thank you to Bendix Sørensen, David Ogles, Florian Däubler, Jason from LDO Motors, Nathan Denkin, Orlando from All3DMakers, Sleene, Termlimit, Josh Jones and Stefan Maue for helping me in developing the Bear project and for their beautiful support to the community.
+Podziękowanie dla Bendix Sørensen, David Ogles, Florian Däubler, Jason z LDO Motors, Nathan Denkin, Orlando z All3DMakers, Sleene, Termlimit, Josh Jones i Stefan Maue za pomoc w rozwijaniu projektu Bear i za ich wspaniałe wsparcie dla społeczności.
 
-Thank you to all that have sent me a tip on Thingiverse and PayPal.
+Dziękuję wszystkim, którzy przesłali mi napiwek poprzez Thingiverse i PayPal.
 
-Thank you to everybody from our Facebook group and The 602 Wasteland community.
+Dziękuję wszystkim z grup na Facebook i społeczności The 602 Wasteland.
 
-Thank you for having purchased a kit from an official distributor.
+Dziękuje za zakup zestawu od oficjalnego dystrybutora.
 
-Thank you to all official distributors for taking care of the kits and customers.
+Dziękuje wszystkim oficjalnym dystrybutorom za opiekę nad zestawami i klientami.
 
-Thank you Jason from LDO Motors for the quality manufacturing and relationship.
+Podziękowania dla Jasona z LDO Motors za jakość w produkcji i wzajemej relacji.
 
-Thank you Openbuilds<sup>&reg;</sup> for your hardware, community and state of mind.
+Dziękuje Openbuilds<sup>&reg;</sup> za Wasz sprzęt, społeczność i stan umysłu.
 
-Thank you for making the community alive with all your comments, issues, pull requests, optional parts, make, pictures, etc.
+Dziękuje za ożywienie społeczności wszystkimi Waszymi komentarzami, problemami, zgłoszeniami zmian, częściami opcjonalnymi, marką, zdjęciami itp.
 
 
 
 ## Licencja
 
-All files in this repository are licensed under the GPLv3 license (unless otherwise noted). Here is a quick summary; for more details please check the LICENSE file.
+Wszystkie pliki w tym repozytorium są na licencji GPLv3 (jeśli nie napisano inaczej). Oto krótkie podsumowanie; więcej informacji można znaleźć w pliku LICENCJA.
 
-What you __can__ do:
-  * Modify
-  * Distribute
-  * Private, commercial and patent use
+__Można__:
+  * Modyfikować
+  * Rozprowadzać
+  * Użytkować prywatnie, komercyjnie i patentowo
 
-What you __must__ do:
-  * Include copyright notice
-  * Include a copy of the license
-  * Share source files
-  * Use the same license (GPLv3)
-  * Document changes applied
+__Musisz__:
+  * Dołączać informację o prawach autorskich
+  * Dołączać kopię licencji
+  * Udostępniać pliki źródłowe
+  * Użyj tej samej licencji (GPLv3)   
+  * Zastosowane zmiany opisać w dokumencie
 
-Note: STL and STEP files are generally not source files. The source files are those you use to design your project such as CAD files (Fusion 360), mechanical drawings, code, documentation, etc. However, STL and STEP files are a commonly used format with great interoperability. Therefore, we encourage to share the STL and STEP files in addition to the source files.
+Uwaga: pliki STL i STEP zazwyczaj nie są plikami źródłowymi. Pliki źródłowe to te, których używasz do projektowania projektu, takie jak pliki CAD (Fusion 360), rysunki mechaniczne, kod, dokumentacja itp. Jednak pliki STL i STEP są powszechnie używanym formatem o doskonałej interoperacyjności. Dlatego zachęcamy do udostępniania plików STL i STEP oprócz plików źródłowych.
 
 
 
