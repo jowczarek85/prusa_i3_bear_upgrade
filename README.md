@@ -4,7 +4,7 @@
 
 ## Spis treści
   1. [Wprowadzenie](#wprowadzenie)
-  1. [Features](#features)
+  1. [Charakterystyka](#charakterystyka)
   1. [Zmiany względem ramy bear 2.0](#zmiany-w-bear-upgrade-21-względem-20)
   1. [Kompatybilność](#kompatybilność)
   1. [Części drukowane](#części-drukowane)
@@ -23,13 +23,13 @@
 
 ## Wprowadzenie
 
-The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/). It allows faster prints, increases precision, makes maintenance easier and opens the door to more customisations. Plus it looks unique with our coloured frames!
+Bear Upgrade poprawia sztywność i niezawodność oryginału [Prusa i3 MK2(S), MK2.5(S) i MK3(S)] (https://www.prusa3d.com/). Umożliwia szybsze wydruki, zwiększa precyzję, ułatwia konserwację i otwiera drzwi do większej liczby zmian. Dodatkowo wygląda wyjątkowo z naszymi kolorowymi ramami!
 
 ![Bear Frame Upgrade 2.1 MK3S](extra/photos/frame_01_900px.jpg)
 
 
 
-## Features
+## Charakterystyka
 
   * Kompatybilność z Original Prusa i3 MK2(S), MK2.5(S) i MK3(S)
   * Kompatybilny z wieloma ektruderami, takimi jak Original Prusa, BearExxa, BearMera (E3D Hemera) i Bondtech Prusa Upgrade
@@ -82,7 +82,7 @@ Aktualizacja Bear Frame Upgrade 2.1 jest kompatybilna wyłącznie z ramą Full B
 
 ## Części drukowane
 
-:bulb: All links here correspond to the latest stable release.
+:bulb: Wszystkie linki tutaj odnoszą się do najnowszej stabilnej wersji.
 
 :warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
