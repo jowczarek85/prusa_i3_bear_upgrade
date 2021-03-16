@@ -5,7 +5,7 @@
 ## Spis treści
   1. [Wprowadzenie](#wprowadzenie)
   1. [Features](#features)
-  1. [Nowoście względem ramy bear 2.0](#new-features-since-bear-frame-20)
+  1. [Zmiany względem ramy bear 2.0](#zmiany-w-bear-upgrade-2.1-względem-2.0)
   1. [Kompatybilność](#compatibility)
   1. [Części drukowane](#printed-parts)
   1. [Ustawienia dotyczące druku](#print-settings)
@@ -51,7 +51,7 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
 
 
 
-## Zmiany w Bear upgrade 2.1 względem 2.0:
+## Zmiany w Bear upgrade 2.1 względem 2.0
 
   * Ulepszona instrukcja montażu i dokumentacja (na stronie guide.bear-lab.com)
   * Pojedyncza rama dla wszystkich wersji Prusy (ta sama rama co Full Bear 2.0 MK3)
