@@ -1,28 +1,28 @@
-# Bear Frame Upgrade 2.1
+# Rama Bear Upgrade 2.1
 
 
 
 ## Table of contents
-  1. [Introduction](#introduction)
+  1. [Wprowadzenie](#wprowadzenie)
   1. [Features](#features)
-  1. [New features since Bear Frame 2.0](#new-features-since-bear-frame-20)
-  1. [Compatibility](#compatibility)
-  1. [Printed parts](#printed-parts)
-  1. [Print settings](#print-settings)
-  1. [Assembly guide](#assembly-guide)
-  1. [Bill of materials](#bill-of-materials)
-  1. [Optional parts](#optional-parts)
-  1. [Community](#community)
-  1. [Where can I get an official kit?](#where-can-i-get-an-official-kit)
-  1. [Partners and contributors](#partners-and-contributors)
-  1. [Support my work](#support-my-work)
-  1. [Thank you](#thank-you)
-  1. [License](#license)
-  1. [Credit, sources and inspiration](#credit-sources-and-inspiration)
+  1. [Nowoście względem ramy bear 2.0](#new-features-since-bear-frame-20)
+  1. [Kompatybilność](#compatibility)
+  1. [Części drukowane](#printed-parts)
+  1. [Ustawienia dotyczące druku](#print-settings)
+  1. [Montaż](#assembly-guide)
+  1. [Zestawienie materiałów](#bill-of-materials)
+  1. [Części opcjonalne](#optional-parts)
+  1. [Społeczność](#community)
+  1. [Gdzie dostać oficjalny zestaw?](#where-can-i-get-an-official-kit)
+  1. [Partnerzy i współpracownicy](#partners-and-contributors)
+  1. [Wsparcie mojej pracy](#support-my-work)
+  1. [Podziękowania](#thank-you)
+  1. [Licencja](#license)
+  1. [Uznanie, źródła i inspiracja](#credit-sources-and-inspiration)
 
 
 
-## Introduction
+## Wprowadzenie
 
 The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa i3 MK2(S), MK2.5(S) and MK3(S)](https://www.prusa3d.com/). It allows faster prints, increases precision, makes maintenance easier and opens the door to more customisations. Plus it looks unique with our coloured frames!
 
@@ -32,48 +32,47 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
 
 ## Features
 
-  * Compatible with Original Prusa i3 MK2(S), MK2.5(S) and MK3(S)
-  * Compatible with lots of extruders like Original Prusa, BearExxa, BearMera (E3D Hemera) and Bondtech Prusa Upgrade
-  * Reuse of as many parts as possible
-  * Sturdy frame for faster printing
-  * High quality extrusions
-  * Custom, sturdier t-nuts
-  * Improved accuracy
-  * Reduced noise level
-  * Easy to use and maintain
-  * Built to last
-  * Precisely engineered printed parts
-  * Thoroughly tested development
-  * Highly customisable
-  * Detailed documentation via [guides.bear-lab.com](https://guides.bear-lab.com/)
-  * Active and open minded community
-  * Truly open source
+  * Kompatybilność z Original Prusa i3 MK2(S), MK2.5(S) i MK3(S)
+  * Kompatybilny z wieloma ektruderami, takimi jak Original Prusa, BearExxa, BearMera (E3D Hemera) i Bondtech Prusa Upgrade
+  * Ponowne wykorzystanie jak największej liczby części
+  * Solidna rama do szybszego drukowania
+  * Wysokiej jakości ekstruzja 
+  * Niestandardowe, mocniejsze podkładki T-Nuts
+  * Poprawiona dokładność
+  * Zmniejszony poziom hałasu
+  * Łatwa w użyciu i utrzymaniu
+  * Zbudowane od początku do końca
+  * Precyzyjnie zaprojektowane części drukowane
+  * Dokładnie przetestowany rozwój
+  * Wysoce konfigurowalny
+  * Szczegółowa dokumentacja na stronie [guide.bear-lab.com] (https://guides.bear-lab.com/)
+  * Aktywna i otwarta społeczność
+  * Naprawdę open source
 
 
 
-## New features since Bear Frame 2.0
+## Zmiany w Bear upgrade 2.1 względem 2.0:
 
-  * Improved assembly guide and documentation (via [guides.bear-lab.com](https://guides.bear-lab.com/))
-  * Single frame for all Prusa versions (same frame as Full Bear 2.0 MK3)
-  * New stiffer Y axis with tensioner
-  * New stiffer Z axis
-  * Improved X and Y axis homing accuracy
-  * Improved Z axis alignment and assembly
-  * Reduced Y axis stepper noise for MK3(S)
-  * New build helpers for Y and Z axis
-  * Support for all Prusa PSUs
-  * Custom, sturdier t-nuts
-  * Shorter LCD supports
-  * New custom LCD cover
-  * Nicer and more resistant end caps
-  * Easier assembly of printed parts
-  * Improved wire management with new cable clips
-  * Stiffer mounts for Rambo Mini/Einsy cover
-  * Compatible with E3D Gates idlers as well as 9mm belt
-
+  * Ulepszona instrukcja montażu i dokumentacja (na stronie guide.bear-lab.com)
+  * Pojedyncza rama dla wszystkich wersji Prusy (ta sama rama co Full Bear 2.0 MK3)
+  * Nowa sztywniejsza oś Y z napinaczem
+  * Nowa sztywniejsza oś Z.
+  * Poprawiona dokładność bazowania osi X i Y.
+  * Ulepszone wyrównanie i montaż osi Z.
+  * Zmniejszony hałas osi Y dla MK3(S)
+  * Wsparcie dla wszystkich zasilaczy Prusa
+  * Niestandardowe, mocniejsze podkładki T-Nuts
+  * Krótsze mocowanie dla wyświetlacza LCD
+  * Nowa, niestandardowa osłona wyświetlacza LCD
+  * Ładniejsze i bardziej wytrzymałe zaślepki
+  * Łatwiejszy montaż części drukowanych
+  * Ulepszone zarządzanie przewodami dzięki nowym zaciskom kablowym
+  * Sztywniejsze mocowania dla Rambo Mini/Einsy
+  * Kompatybilność z rolkami napinającymi E3D Gates oraz paskiem 9 mm
 
 
-## Compatibility
+
+## Kompatybilność
 
 This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have).
 
@@ -83,7 +82,7 @@ This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 _
 
 
 
-## Printed parts
+## Części drukowane
 
 :bulb: All links here correspond to the latest stable release.
 
@@ -100,7 +99,7 @@ This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 _
 
 
 
-## Print settings
+## Ustawienia dotyczące druku
 
 :warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
@@ -139,7 +138,7 @@ Find optional parts designed by the community at [guides.bear-lab.com/Wiki/commu
 
 
 
-## Community
+## Społeczność
 
 Here are the places were The Bear project is the most active on:
 
@@ -151,7 +150,7 @@ Here are the places were The Bear project is the most active on:
 Do not hesitate to ask if you have a question.
 
 
-## Where can I get an official kit?
+## Gdzie dostać oficjalny zestaw?
 
 Official distributors are selling a kit with all screws and extrusions ready for the upgrade from an Original Prusa, you will only need to print 3D printed parts.
 
@@ -198,7 +197,7 @@ Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando f
 
 
 
-## Support my work
+## Wsparcie mojej pracy
 
 The bear project is made possible thanks to its supporters. You can participate via
 <br/><br/>
@@ -212,7 +211,7 @@ Massive thank you in advance :heart:
 
 
 
-## Thank you
+## Podziękowania
 
 Massive thank you to [Adrian Bowyer](https://github.com/AdrianBowyer/) for having invented [RepRap](http://reprapltd.com).
 
@@ -236,7 +235,7 @@ Thank you for making the community alive with all your comments, issues, pull re
 
 
 
-## License
+## Licencja
 
 All files in this repository are licensed under the GPLv3 license (unless otherwise noted). Here is a quick summary; for more details please check the LICENSE file.
 
@@ -256,7 +255,7 @@ Note: STL and STEP files are generally not source files. The source files are th
 
 
 
-## Credit, sources and inspiration
+## Uznanie, źródła i inspiracja
 
   * [Adrian Bowyer](https://github.com/AdrianBowyer/) for having invented [RepRap](http://reprapltd.com).
   * Original Prusa i3 printers: [prusa3d.com](http://www.prusa3d.com).
