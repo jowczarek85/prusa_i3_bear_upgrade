@@ -2,7 +2,7 @@
 
 
 
-## Table of contents
+## Spis treści
   1. [Wprowadzenie](#wprowadzenie)
   1. [Features](#features)
   1. [Nowoście względem ramy bear 2.0](#new-features-since-bear-frame-20)
@@ -11,7 +11,7 @@
   1. [Ustawienia dotyczące druku](#print-settings)
   1. [Montaż](#assembly-guide)
   1. [Zestawienie materiałów](#bill-of-materials)
-  1. [Części opcjonalne](#optional-parts)
+  1. [Części opcjonalne](#czesci-opcjonalne)
   1. [Społeczność](#community)
   1. [Gdzie dostać oficjalny zestaw?](#where-can-i-get-an-official-kit)
   1. [Partnerzy i współpracownicy](#partners-and-contributors)
@@ -47,7 +47,7 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
   * Wysoce konfigurowalny
   * Szczegółowa dokumentacja na stronie [guide.bear-lab.com] (https://guides.bear-lab.com/)
   * Aktywna i otwarta społeczność
-  * Naprawdę open source
+  * W pełni open source
 
 
 
@@ -74,12 +74,11 @@ The Bear Frame Upgrade improves stiffness and reliability of the original [Prusa
 
 ## Kompatybilność
 
-This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 __MK3__ frame. If you do not know which frame you have please check [our FAQ here](https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have).
+Aktualizacja Bear Frame Upgrade 2.1 jest kompatybilna wyłącznie z ramą Full Bear Frame Upgrade 2.0 __MK3__. Jeśli nie wiesz, którą ramę posiadasz, sprawdź [nasze FAQ tutaj] (https://guides.bear-lab.com/Wiki/Bear_FAQ#Section_Which_Full_Bear_frame_do_I_have).
 
-:bulb: If you have a Full Bear Frame Upgrade 2.0 MK2S or MK2.5 frame you can find compatible parts in the [optional parts section](#optional-parts) below.
+:bulb: Jeśli masz ramę Full Bear Frame Upgrade 2.0 MK2S lub MK2.5, możesz znaleźć kompatybilne części w [sekcji Części opcjonalne] (#czesci-opcjonalne) poniżej.
 
-:warning: The new Y and Z axis are __not__ compatible with any of the existing Prusa or Bear 2.0 parts. You have to update all parts from Bear 2.1.
-
+:warning: Nowe osie Y i Z __nie__ są zgodne z żadną z istniejących części Prusa lub Bear 2.0. Musisz zaktualizować wszystkie części do Bear 2.1.
 
 
 ## Części drukowane
@@ -119,9 +118,9 @@ This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 _
 
 
 
-## Optional parts
+## Części opcjonalne
 
-#### Official optional parts
+#### Oficjalne części opcjonalne
 
 | Description | Link |
 |-------------|------|
@@ -132,27 +131,27 @@ This Bear Frame Upgrade 2.1 is compatible with the Full Bear Frame Upgrade 2.0 _
 | Y idler tensioner for E3D idler | [y_idler_tensioner_e3d](optional_parts/y_idler_tensioner_e3d/README.md) |
 | Bear Extruder and X Axis | [Bear Extruder and X axis for MK2.5S MK3S](https://github.com/gregsaun/bear_extruder_and_x_axis) |
 
-#### Community's optional parts
+#### Opcjonalne części społeczności
 
-Find optional parts designed by the community at [guides.bear-lab.com/Wiki/community_optional_parts](https://guides.bear-lab.com/Wiki/community_optional_parts).
+Opcjonalne części zaprojektowane przez społeczność znajdziesz pod adresem [guides.bear-lab.com/Wiki/community_optional_parts](https://guides.bear-lab.com/Wiki/community_optional_parts).
 
 
 
 ## Społeczność
 
-Here are the places were The Bear project is the most active on:
+Miejsca, w których Projekt Bear jest najbardziej aktywny:
 
-* Discord server of "The 602 Wasteland" community : [discordapp.com/invite/hYUjSnW](https://discordapp.com/invite/hYUjSnW)
-* Facebook group : [facebook.com/groups/PrusaBearUpgrade](https://www.facebook.com/groups/PrusaBearUpgrade)
+* Discord serwer społeczności "The 602 Wasteland" : [discordapp.com/invite/hYUjSnW](https://discordapp.com/invite/hYUjSnW)
+* Grupa na Facebook  : [facebook.com/groups/PrusaBearUpgrade](https://www.facebook.com/groups/PrusaBearUpgrade)
 * Twitter : [@gregoiresaunier](https://twitter.com/gregoiresaunier)
 * GitHub : [github.com/gregsaun](https://github.com/gregsaun)
 
-Do not hesitate to ask if you have a question.
+Jeśli masz pytania, nie wahaj się zapytać.
 
 
 ## Gdzie dostać oficjalny zestaw?
 
-Official distributors are selling a kit with all screws and extrusions ready for the upgrade from an Original Prusa, you will only need to print 3D printed parts.
+Oficjalni dystrybutorzy sprzedają zestaw ze wszystkimi śrubami i wytłoczeniami gotowymi do aktualizacji z Original Prusa, wystarczy wydrukować części 3D.
 
   * ![all3d makers logo](extra/distributors/all3dmakers_logo.png)  
      All3D Makers (US)  
@@ -179,21 +178,20 @@ Official distributors are selling a kit with all screws and extrusions ready for
     [ooznest.co.uk](https://ooznest.co.uk/)  
 
 
-By purchasing a kit from official distributors you are supporting the development of the Bear project, thank you very much!
+Kupując zestaw od oficjalnych dystrybutorów wspierasz rozwój projektu Bear, bardzo dziękuje!
 
 
+## Partnerzy i współtwórcy
 
-## Partners and contributors
+![LDO Motors](extra/partners/ldo_motors.png) &nbsp;[LDO Motors](http://ldomotors.com/) jest producentem oficjalnego zestawu do modernizacji ramy Bear dla wszystkich dystrybutorów.
 
-![LDO Motors](extra/partners/ldo_motors.png) &nbsp;[LDO Motors](http://ldomotors.com/) is the manufacturer of the official Bear frame upgrade kit for all distributors.
+![3DFused](extra/partners/3d_fused.png) &nbsp;[3DFused](https://3dfused.com/) pomaga zespołowi rozwojowemu Bear w zdobywaniu wiedzy na temat ruchu liniowego i będzie sprzedawać niestandardowy zestaw szyn liniowych do modernizacji ramy Bear.
 
-![3DFused](extra/partners/3d_fused.png) &nbsp;[3DFused](https://3dfused.com/) is helping the Bear development team with linear motion knowledge and will sell custom linear rail kit for the Bear Frame Upgrade.
+Grégoire Saunier jest projektantem i twórcą Bear Frame Upgrade oraz Bear Extruder.
 
-Grégoire Saunier is the original designer of the Bear Frame Upgrade and Extruder.
+Bendix Sørensen, David Ogles, Florian Däubler, Josh Jones and Stefan Maue są aktywnymi współtwórcami.
 
-Bendix Sørensen, David Ogles, Florian Däubler, Josh Jones and Stefan Maue are active contributors.
-
-Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando from All3DMakers and Termlimit are admins of the Bear community and help with documentation.
+Barry Danks, David Ogles, Florian Däubler, Josh Jones, Nathan Denkin, Orlando z All3DMakers i Termlimit są administratorami społeczności Bear i pomagają w dokumentacji.
 
 
 
