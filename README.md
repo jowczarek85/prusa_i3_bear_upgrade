@@ -87,33 +87,31 @@ Aktualizacja Bear Frame Upgrade 2.1 jest kompatybilna wyłącznie z ramą Full B
 :warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
 **Części drukowane:**
-  * Bear Frame 2.1 for MK3(S) STL files: [bear21_mk3-3s_stl.zip](../../releases/latest/download/bear21_mk3-3s_stl.zip)
-  * Bear Frame 2.1 for MK2(S) or MK2.5(S) STL files: [bear21_mk2-2s-25-25s_stl.zip](../../releases/latest/download/bear21_mk2-2s-25-25s_stl.zip)
-  * Bear Frame 2.1 optional parts (check [optional parts section](#optional-parts) below) files: [bear21_optional_parts.zip](../../releases/latest/download/bear21_optional_parts.zip)
+  * Rama Bear 2.1 dla MK3(S) pliki STL: [bear21_mk3-3s_stl.zip](../../releases/latest/download/bear21_mk3-3s_stl.zip)
+  * Rama Bear 2.1 dla MK2(S) lub MK2.5(S) pliki STL: [bear21_mk2-2s-25-25s_stl.zip](../../releases/latest/download/bear21_mk2-2s-25-25s_stl.zip)
+  * Rama Bear 2.1 opcjonalne części (sprawdź [sekcję opcjonalnych części](#części-opcjonalne) poniżej) pliki: [bear21_optional_parts.zip](../../releases/latest/download/bear21_optional_parts.zip)
 
 **Pliki źródłowe CAD i szkice**:
-  * Rama Bear 2.1 dla MK3(S) CAD files and mechanical drawings: [bear21_cad_drawings_files.zip](../../releases/latest/download/bear21_cad_drawings_files.zip)
-  * All source files (this complete repository): Go the to latest release [here](../../releases/latest) and in the bottom of the release note, under the Assets, click on "Source code" (you can choose between zip and tar.gz files).
-
-
+  * Rama Bear 2.1 dla MK3(S) pliki CAD i rysunki mechaniczne: [bear21_cad_drawings_files.zip](../../releases/latest/download/bear21_cad_drawings_files.zip)
+  * Wszystkie pliki źródłowe (to kompletne repozytorium): Przejdź do najnowszej wersji [tutaj](../../releases/latest) i na dole informacji o wersji, pod zasobami, kliknij „Kod źródłowy” (możesz wybrać pomiędzy plikami zip i tar.gz).
 
 ## Ustawienia dotyczące druku
 
-:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
+:warning: Ostrzeżenie: Ważne jest, aby przestrzegać zalecanych ustawień drukowania i ** skalibrować extrusion multiplier ** przed wydrukowaniem części (dla każdej używanej szpuli).
 
-[Read the print settings here](doc/print_settings.md).
+[Sprawdź nasz przewodnik po kalibracji tutaj](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
+[Ustawienia drukowania znajdziesz tutaj](doc/print_settings.md).
 
 
 ## Montaż
 
-[Read the assembly guide here](https://guides.bear-lab.com/c/Frame).
-
+[Instrukcję montażu przeczytasz tutaj](https://guides.bear-lab.com/c/Frame).
 
 
 ## Zestawienie materiałów
 
-[Read the BOM here](doc/bom.md).
+[Zestawienie komponentów znajdziesz tutaj](doc/bom.md).
 
 
 
@@ -254,11 +252,11 @@ Uwaga: pliki STL i STEP zazwyczaj nie są plikami źródłowymi. Pliki źródło
 
 ## Uznanie, źródła i inspiracja
 
-  * [Adrian Bowyer](https://github.com/AdrianBowyer/) for having invented [RepRap](http://reprapltd.com).
-  * Original Prusa i3 printers: [prusa3d.com](http://www.prusa3d.com).
+  * [Adrian Bowyer](https://github.com/AdrianBowyer/) za wynalezienie [RepRap](http://reprapltd.com).
+  * Original Prusa i3: [prusa3d.com](http://www.prusa3d.com).
   * Prusa 3030 Haribo Edition: [github.com/PrusaMK2Users/3030_Haribo_Edition](https://github.com/PrusaMK2Users/3030_Haribo_Edition).
-  * Openbuilds<sup>&reg;</sup> for the invention of open source V-Slot<sup>&reg;</sup> extrusions : [openbuilds.org](https://www.openbuilds.org).
-  * Roy Henriksson for the inspiration of his Y axis tensioner : [thingiverse.com/thing:3502543](https://www.thingiverse.com/thing:3502543).
-  * Vecko Kojchevski for his Z axis parts and feedback : [thingiverse.com/vekoj/designs](https://www.thingiverse.com/vekoj/designs).
+  * Openbuilds<sup>&reg;</sup> za zaprojektowanie i oddanie społeczności open source profili V-Slot<sup>&reg;</sup> : [openbuilds.org](https://www.openbuilds.org).
+  * Roy Henriksson za inspirację jego napinaczem dla osi Y: [thingiverse.com/thing:3502543](https://www.thingiverse.com/thing:3502543).
+  * Vecko Kojchevski za jego feedback i części dla osi Z: [thingiverse.com/vekoj/designs](https://www.thingiverse.com/vekoj/designs).
 
-Massive thanks to these projects, without them the Bear could not exist!
+Wielkie podziękowania tym projektom, bez nich Projekt Bear nie mógłby istnieć!
