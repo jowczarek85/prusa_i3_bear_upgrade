@@ -14,10 +14,10 @@
   1. [Części opcjonalne](#części-opcjonalne)
   1. [Społeczność](#społeczność)
   1. [Gdzie dostać oficjalny zestaw?](#gdzie-dostać-oficjalny-zestaw)
-  1. [Partnerzy i współpracownicy](#partners-and-contributors)
-  1. [Wsparcie mojej pracy](#support-my-work)
-  1. [Podziękowania](#thank-you)
-  1. [Licencja](#license)
+  1. [Partnerzy i współpracownicy](#partnerzy-i-współtwórcy)
+  1. [Wsparcie mojej pracy](#wsparcie-mojej-pracy)
+  1. [Podziękowania](#podziękowania)
+  1. [Licencja](#licencja)
   1. [Uznanie, źródła i inspiracja](#uznanie-źródła-i-inspiracja)
 
 
@@ -84,7 +84,7 @@ Aktualizacja Bear Frame Upgrade 2.1 jest kompatybilna wyłącznie z ramą Full B
 
 :bulb: Wszystkie linki tutaj odnoszą się do najnowszej stabilnej wersji.
 
-:warning: Warning: It is important to follow the recommended print settings and to **calibrate your extrusion multiplier** before printing the parts (for each and every spool that you use). [Check our calibration guide here](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
+:warning: Ostrzeżenie: Ważne jest, aby przestrzegać zalecanych ustawień drukowania i **skalibrować extrusion multiplier** przed wydrukowaniem części (dla każdej używanej szpuli). [Sprawdź nasz przewodnik po kalibracji tutaj](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
 **Części drukowane:**
   * Rama Bear 2.1 dla MK3(S) pliki STL: [bear21_mk3-3s_stl.zip](../../releases/latest/download/bear21_mk3-3s_stl.zip)
@@ -97,7 +97,7 @@ Aktualizacja Bear Frame Upgrade 2.1 jest kompatybilna wyłącznie z ramą Full B
 
 ## Ustawienia dotyczące druku
 
-:warning: Ostrzeżenie: Ważne jest, aby przestrzegać zalecanych ustawień drukowania i ** skalibrować extrusion multiplier ** przed wydrukowaniem części (dla każdej używanej szpuli).
+:warning: Ostrzeżenie: Ważne jest, aby przestrzegać zalecanych ustawień drukowania i **skalibrować extrusion multiplier** przed wydrukowaniem części (dla każdej używanej szpuli).
 
 [Sprawdź nasz przewodnik po kalibracji tutaj](https://guides.bear-lab.com/Guide/Extrusion+multiplier+and+filament+diameter/8).
 
